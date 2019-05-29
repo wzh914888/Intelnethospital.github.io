@@ -4,7 +4,7 @@
 - [最新政策](policy.html)
 	
 
-使用说明
+用户操作说明
 
 	
 - [互联网医院管理后台](/userguid/perfection.md)
