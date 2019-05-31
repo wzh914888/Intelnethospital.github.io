@@ -7,7 +7,7 @@ layout: haha
 
 
 
-[](policy.md)
+[](topics/policy/policytext/index.html)
 
 
-[](update.md)
+[](topics/update/updatetext/index.html)

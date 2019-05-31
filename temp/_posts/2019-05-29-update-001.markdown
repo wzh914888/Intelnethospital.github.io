@@ -2,10 +2,10 @@
 layout: post
 title:  "发布新元素互联网医院产品-用户使用指南V1.0"
 date:   2019-05-29 09:29:26 +0800
-categories: update
+ascription: update
 ---
 
-## 版本说明： 
+### 版本说明： 
 
 1、搭建“新元素互联网医院产品-用户使用指南”  
 

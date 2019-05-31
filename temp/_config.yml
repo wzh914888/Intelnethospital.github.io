@@ -25,9 +25,15 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-markdown: kramdown  
+markdown: kramdown
 plugins:
   - jekyll-feed
+
+
+
+paginate: 4
+
+paginatepath: ['topics/policy/policytext/:num/','topics/update/updatetext/:num/']
 
 
 # Exclude from processing.
@@ -41,4 +47,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-

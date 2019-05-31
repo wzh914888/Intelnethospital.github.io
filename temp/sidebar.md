@@ -1,7 +1,7 @@
 ﻿互联网医院政策   
-- [版本更新说明](update.html)
+- [版本更新说明](topics/update/updatetext/index.html)
 
-- [最新政策](policy.html)
+- [国家最新政策](topics/policy/policytext/index.html)
 	
 
 用户操作说明
