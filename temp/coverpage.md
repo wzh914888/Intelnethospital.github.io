@@ -2,7 +2,7 @@
 
 <center><h3 class="post-title p-name" itemprop="name headline"><font color="#ffffff">Welcome to New Elements Internet Hospital Products - User Guide</font></h3></center>
 
-![logo](images/barbour1.jpg)
+![logo](images/home/barbour1.jpg)
 
 [进入使用指南](README.md)
 
